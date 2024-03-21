@@ -40,6 +40,10 @@ This project is licensed under the MIT License. Feel free to use it for personal
 
 Special thanks to the creators of React and the amazing open-source community for their contributions to making web development more accessible and enjoyable for everyone.
 
+## NOTE : 
+
+This website will be under constant maintenance and will keep recieving newer and newer updates , as much as possible
+
 ---
 
 Let your portfolio shine and make a lasting impression with the Portfolio Website Template! ✨
