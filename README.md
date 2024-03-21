@@ -22,14 +22,7 @@ To get started with your own portfolio website:
 2. Navigate to the project directory: `cd test` , then `cd src `
 3. Install dependencies: `npm install`
 4. Customize the content and styling to your liking.
-5. Deploy your portfolio to your favorite hosting platform.
-
-## Examples
-
-Here are some examples of portfolios created using this template:
-
-- [John Doe's Portfolio](https://example.com)
-- [Jane Smith's Portfolio](https://example.com)
+5. Deploy your portfolio to your favorite hosting platform
 
 ## Support
 
